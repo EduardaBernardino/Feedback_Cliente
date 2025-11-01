@@ -5,7 +5,7 @@ Após a conclusão de uma venda, o sistema envia um e-mail personalizado ao clie
 
 ---
 
-### ** Funcionalidades**
+### **Funcionalidades**
 ✅ Leitura automática de um arquivo CSV com os dados das vendas.  
 ✅ Envio de e-mails personalizados após a entrega.  
 ✅ Mensagens em **HTML e texto**, prontas para uso corporativo.  
@@ -14,7 +14,7 @@ Após a conclusão de uma venda, o sistema envia um e-mail personalizado ao clie
 
 ---
 
-### ** Estrutura do Projeto**
+### **Estrutura do Projeto**
 📁 post_venda/
 ├── post_venda.py # Script principal
 ├── sales.csv # Lista de vendas (nome, email, pedido, data)
