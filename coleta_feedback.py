@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 
 MY_EMAIL = "xxxxxxxxxxxxxx"
 MY_PASSWORD = "xxxxxxxxxxxxxxxxxx"
-FEEDBACK_FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLScJB-uUfSZyStgbO59oZDpY77zwGk4fpNfBehJpaaV5RKSv-Q/viewform?usp=publish-editor"  # ex.: link do Google Forms
+FEEDBACK_FORM_URL = "https://docs.google.com/forms/d/e/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"  # ex.: link do Google Forms
 REMETENTE_NOME = "Empresa X"
 CSV_PATH = "sales.csv"
 
